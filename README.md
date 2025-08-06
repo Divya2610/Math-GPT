@@ -70,7 +70,7 @@ What is the capital of France?
 If a car travels at 60 km/h for 2 hours, how far does it go?
 
 
-<img width="1920" height="1049" alt="image" src="https://github.com/user-attachments/assets/49e25e68-3971-440e-8771-5317a4147a5c" />
+
 
 
   
